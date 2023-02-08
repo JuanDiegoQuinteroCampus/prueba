@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+Body {background-color : #f05f40;
+    display:flex ;
+    position:static;
+    font-family: 'Poppins', sans-serif;
+
+}
+.todo{
+    background-color: #1e1d2b;
+}
+.barramenu{
+    
+    position: absolute;
+    top: 3%;
+    right: 0%;
+    font-size:xx-large;
+    
+    
+    
+}
+.foods{
+    position: absolute;
+    top:4.5%;
+    left:5%;
+    color:#f05f40
+}
+#home{
+    position:absolute;
+    right: 25%;
+    height: 55%;
+    top:27%
+}
+.full{
+    color: #ff702a;
+    position:absolute;
+    top: 45%;
+    left:20%;
+    
+    
+}
+.introduction{
+    position: absolute;
+    top:50%;
+    left:20%;
+   color:white
+}
+#today{
+    color:white;
+    background-color: #ff702a;
+    left:20%;
+    top:58%;
+    position: absolute;
+    border-color: #ff702a;
+    padding: 10px 25px;
+}
+.izquierda{
+    left:0;
+    position:absolute
+}
+#about{
+    position: absolute;
+    top:130%;
+    left:15%
+}
+.us{
+    position:absolute;
+    top:133%;
+    left:50%;
+    color:#ff702a;
+}
+.texto{
+    position: absolute;
+    top:135%;
+    left:50%;
+    color:white;
+}
+#learns{
+    position: absolute;
+    top:159%;
+    background-color:#ff702a;
+    left: 50%;
+    border-color: #ff702a;
+    padding: 10px 25px;
+    color:white
+}
+.foodmenu{
+    color:#ff702a;
+    position:absolute;
+    top:225%;
+    left:44%
+}
+.fresh{
+    color:white;
+    position: absolute;
+    top: 230%;
+    left:35%
+}
+.carta{
+    box-sizing: content-box;
+    background-color: antiquewhite;
+    position: absolute;
+    top:245%;
+    left:18%;
+    width: 20%;
+    height: 45%;
+}#food1{
+    position:absolute;
+    left: 10%;
+}
+.textocarta{
+    position: absolute;
+    top:70%;
+    left:25%
+}
+.tasty{
+    position: absolute;
+    top:80%;
+    left:50%
+}
+.precio{
+    position: absolute;
+    top:90%;
+    left:40%;
+    color: #ff702a;
+}
